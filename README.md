@@ -1,6 +1,6 @@
 <img src="./.github/logo.svg" width="480">
 
-# **GPT2** for Multiple Languages
+# **GPT2** for BLABLA
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imcaspar/gpt2-ml/blob/master/pretrained_model_demo.ipynb)
 [![GitHub](https://img.shields.io/github/license/imcaspar/gpt2-ml)](https://github.com/imcaspar/gpt2-ml)
